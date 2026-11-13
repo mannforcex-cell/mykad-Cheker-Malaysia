@@ -50,11 +50,11 @@ def print_banner():
 {Colors.GOLD}
                         ╭───────☆───────╮
 {Colors.MAGENTA}
-                       🛡 PlandoxSing CyberForce 🛡
+                    🛡 PlandoxSing CyberForce 🛡
 {Colors.CYAN}
-               Malaysian Intelligence Toolkit
+                    Malaysian Intelligence Toolkit
 {Colors.ORANGE}
-                        Author: MFx
+                        Author: MFx OFFICIAL
 {Colors.GOLD}
                         ╰───────☆───────╯
 {Colors.RESET}"""
