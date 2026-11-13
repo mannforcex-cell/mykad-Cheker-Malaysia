@@ -417,29 +417,29 @@ def print_menu():
 def print_compact_menu():
     print(f"""
 {Colors.GOLD}
-        ╭── ──╮           ╭── ──╮
+        ╭──     ──╮           ╭──     ──╮
 {Colors.CYAN}
-        ᆞ| [1]            ᆞ| [2]
+         ᆞ| [1]                 ᆞ| [2]
 {Colors.YELLOW}
-        ❯ Phone OSINT     ❯ IC Intel
+        ❯ Phone OSINT           ❯ IC Intel
 {Colors.GOLD}
-        ╰── ──╯           ╰── ──╯
+        ╰──     ──╯           ╰──     ──╯
 
-        ╭── ──╮           ╭── ──╮
+        ╭──     ──╮         ╭──     ──╮
 {Colors.CYAN}
-        ᆞ| [3]            ᆞ| [4]
+         ᆞ| [3]               ᆞ| [4]
 {Colors.YELLOW}
-        ❯ Bulk Check      ❯ Carrier
+        ❯ Bulk Check           ❯ Carrier
 {Colors.GOLD}
-        ╰── ──╯           ╰── ──╯
+        ╰──    ──╯          ╰──     ──╯
 
-        ╭── ──╮           ╭── ──╮
+        ╭──      ──╮           ╭──      ──╮
 {Colors.CYAN}
-        ᆞ| [5]            ᆞ| [0]
+         ᆞ| [5]                    | [0]
 {Colors.YELLOW}
-        ❯ Format Guide    ❯ Exit
+       ❯ Format Guide               ❯ Exit
 {Colors.GOLD}
-        ╰── ──╯           ╰── ──╯
+        ╰──      ──╯           ╰──      ──╯
 {Colors.RESET}
 """)
 
